@@ -2,6 +2,7 @@
 For this assignment, we build a deep learning/neural network model that can help us select potential applicants for funding with the best chance of success in their ventures. I have made three attempts to optimize my model to create this tool. The goal was to achieve an accuracy score of at least 75% to be confident of the performance of the model in predicting success rates in loan candidates. 
 
 The optimization process involved a couple of layers of trial and error by adjusting our variables, dropping data that would skew our model, and also playing around with our neural network layers and activation functions. These steps have been outlined below.
+
 ---
 
 ### Results:
