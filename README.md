@@ -11,6 +11,6 @@ In this repo you'll find,
 - An analysis of the deep learning challenge, outlining preprocessing and model optimization.
 
 For Colab files, they can be found through these links,
-- Model 1
-- Model 2
-- Optimized Model
+- [Model 1](https://colab.research.google.com/drive/1cSq0_X5841IwJ9S-1t3CZwe3IlCAUBdH?usp=sharing)
+- [Model 2](https://colab.research.google.com/drive/1FhbIcXlbQbchJvQSHOe6oUyeMQLpH8E3?usp=sharing)
+- [Optimized Model](https://colab.research.google.com/drive/1sq14kt3YquHRrXw82ud0LzzjXG0yMfDf?usp=sharing)
